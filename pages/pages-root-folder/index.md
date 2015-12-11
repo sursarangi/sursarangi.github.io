@@ -21,7 +21,7 @@ widget1:
         Ustad ji has played extensively throughout India at various important festivals giving solo recitals as well as accompanying leading musicians such as <em>Ustad Salamat Ali Khan</em>, <em>Ustad Fateh Ali Khan</em>, <em>Pundit Rajan & Sajan Mishra</em> and <em>Shiri L K Pundit</em> amongst others. 
         He is also a recognised and graded artist of <em>All India Radio</em>. Ustad Surjeet Singh has played at numerous venues in Thailand, East Africa, Europe and America.
         His music has appeared in the British media providing background music for various television programmes on Channel 4.</br></br> 
-        Ustaad Surjeet Singh is currently taking on students to learn Dilruba, Esraaj (Taar Shernai), Taus and Sarangi. Please visit the <em>contact</em> section on this site for details. 
+        Ustaad Surjeet Singh is currently taking on students to learn Dilruba, Esraaj (Taar Shenai), Taus and Sarangi. Please visit the <em>contact</em> section on this site for details. 
         He is mostly based in London but teaches all over the world.'
 #
 # Use the call for action to show a button on the frontpage
