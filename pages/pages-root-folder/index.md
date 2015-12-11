@@ -11,8 +11,8 @@ widget1:
   title: "Ustad Surjeet Singh"
   url:
   image:
-  text: 'Ustaad Surjeet Singh is a <em>Sarangi</em> player based in the UK. He is a student of the famous Ram Narayan.</br></br>
-        Born in Delhi in 1961, Ustad Surjeet Singh was initiated into Indian Classical Music by the <em>Satguru Jagjit Singh of the NaamDhari panth</em>. 
+  text: 'Ustaad Surjeet Singh is a <em>Sarangi</em> player based in the UK. He is a student of Pandit Ram Narayan Ji. Pandit Ram Narayan ji who popularized the sarangi as a solo concert instrument and became the first internationally successful sarangi player.</br></br>
+        Born in Delhi in 1961, Ustad Surjeet Singh was initiated into Indian Classical Music by <em>Satguru Jagjit Singh of the NaamDhari panth</em>. 
         &nbsp;At Bhaini Sahib, Ustad Surjeet Singh was trained in the playing of the Dilruba from <em>Ustad Gurdev Singh</em> and <em>Ustad Harbhajan Singh</em>, both of whom are now based in the UK.
         &nbsp;He later received vocal training but his love of the enchanting sound of the Sarangi led him to the great deity of the Sarangi, Pundit Ram Narayan in 1977. &nbsp;He spent the next 15 years of his life in training under Pundit ji. 
         In recent years, Ustad Surjeet Singh received guidance from <em>Pandit Hanuman Prasad Mishra (Banaras Gharana).</em> </br></br>
