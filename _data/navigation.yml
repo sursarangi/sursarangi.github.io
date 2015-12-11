@@ -1,0 +1,38 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Instruments"
+  url: "/instruments/"
+  side: left
+  dropdown:
+  - title: "Sarangi"
+    url: "/design/sarangi/"
+  - title: "Dilruba"
+    url: "/design/dilruba/"
+  - title: "Taus"
+    url: "/design/taus/"
+
+- title: "Recordings and videos"
+  url: "/videos/"
+  side: left
+  dropdown:
+  - title: "Concert 1"
+    url: "/design/concert1/"
+  - title: "Concert 2"
+    url: "/design/concert2/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
