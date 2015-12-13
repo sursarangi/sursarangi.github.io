@@ -1,4 +1,4 @@
 
-## Ustad Surjeet Singh ji's web site: *www.surjeetsingh.org*
+## Ustad Surjeet Singh ji's web site: *surjeetsingh.org*
 
-A simple jekyll based website maintained by ustaadji's students.
+A simple jekyll based website maintained by Ustaadji's students.
