@@ -24,7 +24,7 @@ author: Ustad ji's students
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://sursarangi.github.io'
+url: '//www.surjeetsingh.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/sursarangi/sursarangi.github.io.git
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://sursarangi.github.io/images/'
+urlimg: '//www.surjeetsingh.org'/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -174,7 +174,7 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           ""
 og_locale:                          "en_GB"
 og_type:                            "website"
-og_title:                           "Ustad Surjeet Singh Ji"
+og_title:                           "Ustad Surjeet Singh - Sarangi Master"
 og_description:                     ""
 # og_url:                           ""
 # og_site_name:                     ""
