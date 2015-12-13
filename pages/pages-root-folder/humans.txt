@@ -16,7 +16,7 @@ Twitter: {{ author.twitter }}{% endif %}
 
 Name: Ustad Surjeet Singh Ji
 Role: Creator of the Theme
-Site: http://www.surjeetsingh.org
+Site: https://surjeetsingh.org
 Twitter: @phlow
 Theme:
 
