@@ -3,11 +3,13 @@ layout: page
 title: "Contact"
 meta_title: "Contact and use the form below"
 teaser: "Please use the form below to get in touch with me."
+header:
+  image_fullwidth: header_unsplash_14.jpg
 permalink: "/contact/"
 ---
 
 <div class="panel">
-<div id="wufoo-mjx3wl70ovpjc3">
+<div id="4wufoo-mjx3wl70ovpjc3">
 Fill out my <a href="https://sursarangi.wufoo.com/forms/mjx3wl70ovpjc3">online form</a>.
 </div>
 <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>

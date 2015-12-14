@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Video
+  url: "/video"
+  side: left
+
 #- title: "Instruments"
 #  url: "/instruments/"
 #  side: left
