@@ -12,7 +12,7 @@ title: "Ustad Surjeet Singh"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "One of the worlds most skilled sarangi players"
+slogan: "One of the world's most skilled sarangi players"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -20,11 +20,11 @@ description: "»Ustad Surjeet Singh ji« is one of the world's most skilled sara
 
 # Main author of the website
 # See > authors.yml
-author: Ustad ji's students
+author: "Ustad ji's students"
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: '//www.surjeetsingh.org'
+url: //www.surjeetsingh.org
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/sursarangi/sursarangi.github.io.git
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '//www.surjeetsingh.org'/images/'
+urlimg: //www.surjeetsingh.org/images/
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
