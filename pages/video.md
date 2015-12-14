@@ -1,5 +1,5 @@
 ---
-permalink: /video
+permalink: /video/
 layout: page
 title: "Videos"
 header:
