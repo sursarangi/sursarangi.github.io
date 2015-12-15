@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: Video
-  url: "/video"
+- title: Videos
+  url: "/videos"
   side: left
 
 #- title: "Instruments"

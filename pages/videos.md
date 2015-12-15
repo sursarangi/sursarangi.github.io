@@ -1,10 +1,10 @@
 ---
-permalink: /video/
+permalink: /videos/
 layout: page
 title: "Videos"
 header:
   image_fullwidth: header_unsplash_13.jpg
-teaser: "Videos of Ustad Surjeet Singh Playing"
+teaser: "Videos of Ustad Surjeet Singh playing"
 sitemap: true
 ---
 
