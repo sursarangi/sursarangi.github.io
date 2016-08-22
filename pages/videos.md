@@ -22,3 +22,6 @@ He was accompanied by Narinderjit Singh Lallie of the GSA on tabla.
 ### Raag Mishra Khamaj
 <iframe width="420" height="315" src="https://www.youtube.com/embed/LHGL05Z0WgM" frameborder="0" allowfullscreen></iframe>
 
+### Raag Kalyaan - Impromptu
+A small impromptu performance to demo to students as part of a workshoop Ustaad Jee was teaching in Birmingham.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1lsFuDs-FZE" frameborder="0" allowfullscreen></iframe>
