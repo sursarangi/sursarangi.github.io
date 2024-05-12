@@ -8,13 +8,13 @@ teaser: "Videos of Ustad Surjeet Singh playing"
 sitemap: true
 ---
 
+## Raag Mahlaar (Miyan Ki)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpsMypX3W44" frameborder="0" allowfullscreen></iframe>
+
 ## Sarangi Concert at the University of Derby 2003
 
 Ustaad Jee played these three beautiful pieces at concert organised by the [Gurmat Sangeet Academy (GSA)](http://gurmatsangeet.org)
 He was accompanied by Narinderjit Singh Lallie of the GSA on tabla.
-
-### Raag Mahlaar (Miyan Ki)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tpsMypX3W44" frameborder="0" allowfullscreen></iframe>
 
 ### Raag Dhanasari
 <iframe width="420" height="315" src="https://www.youtube.com/embed/MTeqIHBnnV0" frameborder="0" allowfullscreen></iframe>
