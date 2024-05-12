@@ -14,7 +14,7 @@ Ustaad Jee played these three beautiful pieces at concert organised by the [Gurm
 He was accompanied by Narinderjit Singh Lallie of the GSA on tabla.
 
 ### Raag Mahlaar (Miyan Ki)
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=tpsMypX3W44" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tpsMypX3W44" frameborder="0" allowfullscreen></iframe>
 
 ### Raag Dhanasari
 <iframe width="420" height="315" src="https://www.youtube.com/embed/MTeqIHBnnV0" frameborder="0" allowfullscreen></iframe>
